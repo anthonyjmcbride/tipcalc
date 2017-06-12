@@ -11,3 +11,6 @@ total = bill + tip_amount
 total = '%.2f' % total
 
 puts "Your total is $#{total}"
+
+
+#Genius
